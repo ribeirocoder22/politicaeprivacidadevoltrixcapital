@@ -1,5 +1,4 @@
 # politicaeprivacidadevoltrixcapital
-
 # Política de Privacidade – Voltrix Capital
 
 **Última atualização: 13 de agosto de 2026**
