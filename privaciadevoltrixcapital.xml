@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<privacyPolicy>
+    <title>Política de Privacidade – Voltrix Capital</title>
+
+    <lastUpdated>13 de agosto de 2026</lastUpdated>
+
+    <introduction>
+        A Voltrix Capital valoriza a privacidade, a segurança e a transparência no tratamento das informações de seus usuários.
+        Esta Política de Privacidade explica como as informações podem ser tratadas durante a utilização do aplicativo
+        Voltrix Capital e da plataforma disponível em voltrix.investments.
+    </introduction>
+
+    <section id="1">
+        <title>Funcionamento do aplicativo</title>
+        <content>
+            O aplicativo Voltrix Capital funciona como uma interface de acesso à plataforma disponível em
+            voltrix.investments, utilizando tecnologia WebView para exibir seu conteúdo e funcionalidades.
+            O aplicativo não mantém uma base independente de informações pessoais.
+            Os dados eventualmente fornecidos pelo usuário são tratados por meio da plataforma acessada pelo aplicativo.
+        </content>
+    </section>
+
+    <section id="2">
+        <title>Informações que podem ser tratadas</title>
+        <content>
+            Durante a utilização da plataforma, poderão ser tratadas informações necessárias para disponibilizar suas funcionalidades.
+        </content>
+
+        <items>
+            <item>Informações fornecidas pelo próprio usuário</item>
+            <item>Dados de cadastro e contato</item>
+            <item>Informações relacionadas à conta</item>
+            <item>Registros de acesso</item>
+            <item>Endereço IP</item>
+            <item>Informações técnicas sobre navegador e dispositivo</item>
+            <item>Cookies e dados de sessão</item>
+        </items>
+    </section>
+
+    <section id="3">
+        <title>Utilização das informações</title>
+
+        <items>
+            <item>Criar e autenticar contas</item>
+            <item>Disponibilizar as funcionalidades da plataforma</item>
+            <item>Manter sessões de acesso</item>
+            <item>Personalizar a experiência do usuário</item>
+            <item>Prestar atendimento e suporte</item>
+            <item>Melhorar a estabilidade e o desempenho dos serviços</item>
+            <item>Proteger contas e prevenir acessos não autorizados</item>
+            <item>Cumprir obrigações legais aplicáveis</item>
+        </items>
+    </section>
+
+    <section id="4">
+        <title>Permissões do aplicativo</title>
+        <content>
+            O aplicativo necessita de acesso à Internet para carregar o conteúdo da plataforma.
+            O aplicativo não acessa contatos, mensagens, câmera, microfone, localização ou arquivos pessoais do dispositivo,
+            exceto caso alguma funcionalidade específica venha a necessitar desse acesso e seja devidamente autorizada pelo usuário.
+        </content>
+    </section>
+
+    <section id="5">
+        <title>Cookies e armazenamento local</title>
+        <content>
+            A plataforma poderá utilizar cookies, armazenamento local e tecnologias semelhantes para manter sessões,
+            lembrar preferências, melhorar funcionalidades, aumentar a segurança e proporcionar uma melhor experiência de utilização.
+        </content>
+    </section>
+
+    <section id="6">
+        <title>Compartilhamento de informações</title>
+        <content>
+            A Voltrix Capital poderá utilizar prestadores de serviços necessários para manter sua infraestrutura
+            e disponibilizar determinadas funcionalidades.
+            As informações também poderão ser fornecidas quando necessário para cumprimento de obrigação legal
+            ou determinação válida de autoridade competente.
+            A Voltrix Capital não comercializa dados pessoais de seus usuários.
+        </content>
+    </section>
+
+    <section id="7">
+        <title>Segurança</title>
+        <content>
+            São adotadas medidas destinadas a proteger as informações contra acesso não autorizado, perda,
+            alteração, divulgação ou utilização indevida.
+            Apesar das medidas adotadas, nenhum sistema conectado à Internet pode garantir segurança absoluta.
+        </content>
+    </section>
+
+    <section id="8">
+        <title>Retenção e exclusão</title>
+        <content>
+            As informações poderão ser mantidas durante o período necessário para disponibilização dos serviços
+            e cumprimento de obrigações aplicáveis.
+            O usuário poderá solicitar informações, correções ou exclusão de seus dados por meio dos canais oficiais
+            da Voltrix Capital, observadas eventuais hipóteses legais de retenção.
+        </content>
+    </section>
+
+    <section id="9">
+        <title>Direitos do usuário</title>
+
+        <items>
+            <item>Confirmação da existência de tratamento</item>
+            <item>Acesso aos seus dados</item>
+            <item>Correção de informações</item>
+            <item>Informações sobre o tratamento dos dados</item>
+            <item>Exclusão ou anonimização quando aplicável</item>
+            <item>Revogação de consentimento quando o tratamento depender de consentimento</item>
+        </items>
+    </section>
+
+    <section id="10">
+        <title>Serviços de terceiros</title>
+        <content>
+            A plataforma poderá utilizar serviços e tecnologias fornecidos por terceiros para disponibilizar determinadas funcionalidades.
+            Esses serviços poderão possuir suas próprias políticas e práticas de privacidade.
+        </content>
+    </section>
+
+    <section id="11">
+        <title>Alterações desta Política</title>
+        <content>
+            Esta Política de Privacidade poderá ser atualizada periodicamente para refletir alterações no aplicativo,
+            na plataforma, nas funcionalidades disponibilizadas ou nos requisitos legais aplicáveis.
+        </content>
+    </section>
+
+    <section id="12">
+        <title>Contato</title>
+
+        <contact>
+            <company>Voltrix Capital</company>
+            <website>https://voltrix.investments/</website>
+            <email>contato@voltrix.investments</email>
+        </contact>
+    </section>
+
+    <copyright>
+        © 2026 Voltrix Capital. Todos os direitos reservados.
+    </copyright>
+
+</privacyPolicy>
